@@ -7,7 +7,7 @@ Official Helm charts repository for Mihma Inc.
 ## Usage
 
 ```bash
-helm repo add mihmacorp https://mihmacorp.github.io/helm-charts
+helm repo add mihmacorp https://charts.mihma.com
 helm repo update
 helm search repo mihmacorp
 ```
