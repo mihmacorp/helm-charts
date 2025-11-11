@@ -30,12 +30,12 @@ entries:
       artifacthub.io/signKey: ""
     apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-11-11T01:09:46.827127044+01:00"
+    created: "2025-11-11T01:46:15.67545591+01:00"
     description: Seamlessly integrate Kubernetes with AWS ECR using AWS CLI v2. Automatically
       manages docker-registry secrets for pulling images from Amazon ECR.
-    digest: 9f7ce135987a9dd0964fccc1fbe788f85be783877e2ab54c993c0f29840c1e38
+    digest: ab0cb69a173eeba648b73c0ec068fb8def5154f0dc8aae23c51e70e2a62acee7
     home: https://github.com/mihmacorp/aws-ecr-credential
-    icon: https://raw.githubusercontent.com/aws/aws-icons-for-plantuml/main/dist/Containers/ECR.png
+    icon: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
     keywords:
     - aws
     - ecr
@@ -54,4 +54,4 @@ entries:
     urls:
     - https://mihmacorp.github.io/helm-charts/aws-ecr-credential-2.0.0.tgz
     version: 2.0.0
-generated: "2025-11-11T01:09:46.826123604+01:00"
+generated: "2025-11-11T01:46:15.674484115+01:00"
